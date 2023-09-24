@@ -1,2 +1,1 @@
-# Hello I am Nikhil Krishna 
-## I am a cse student at CEK
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
